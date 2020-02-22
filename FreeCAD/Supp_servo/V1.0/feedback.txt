@@ -1,0 +1,10 @@
+* Premier test : 21/02/2020
+Config Cura :
+  - Imprimante : Creality CR10
+  - Standard Quality : 0.2 mm
+  - 20% Infill
+  
+  
+  4.15mm en longueur
+  
+
