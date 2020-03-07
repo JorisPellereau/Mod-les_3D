@@ -7,4 +7,12 @@ Config Cura :
   
   4.15mm en longueur
   
-
+* 2nd test : 07032020
+Config Cura :
+  - Imprimante : Creality CR10
+  - Standard Quality : 0.2 mm
+  - 20% Infill
+  
+  => PASS avec un peu de jeu 
+  => reduire largeur 21mm à 20.5mm
+  => réduire longueur 41.8 mm à 41.4 mm
